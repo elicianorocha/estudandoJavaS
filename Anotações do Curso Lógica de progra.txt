@@ -1,0 +1,39 @@
+Anotações do Curso "Lógica de programação: mergulhe ... JavaScript"
+
+/// Funções
+
+alert() - usar aspas simples
+
+prompt() - imprime mensagens para interação do usuário.
+
+
+/// Variáveis (um espaço na memória do computador)
+
+São criadas com a função let()
+
+
+/// Observações
+
+Função console.log: inserir essa função quando se quer acompanhar o desenvolvimento do código na página web, por exemplo (clicando em inspecionar). Ele exibirá a mensagem no campo console ao clicar em inspecionar.
+
+console.log('Escreva alguma mensagem');
+
+*******************
+
+My code:
+alert('Vamos começar a aprender de verdade!!');
+let name = prompt('Pra começar bem, como posso te chamar?');
+let idade = prompt('Sua idade, pro favor?');
+
+///---Condição --- Definição das mensagens --- ///
+if(idade >= 18) {mensagem = 'Você pode ver 18+';} else{mensagem = 'Desliga isso agora!';}
+document.getElementById('output').textContent = `Olá, ${name}! ${mensagem}`;
+
+///---Exibição no console ---///
+console.log(`Nome: ${name}, Idade: ${idade}`);
+**********************************************
+
+
+Próxima aula: 
+05 - Alterando a mensagem do alert
+Bloco 2

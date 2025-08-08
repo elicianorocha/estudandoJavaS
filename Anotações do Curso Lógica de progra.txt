@@ -36,4 +36,11 @@ console.log(`Nome: ${name}, Idade: ${idade}`);
 
 Próxima aula: 
 05 - Alterando a mensagem do alert
+
 Bloco 2
+--------------------
+Última aula em 07/08/2025
+-------------------------
+## Próxima:
+Bloco 3; aula 2.
+
